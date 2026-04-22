@@ -4,7 +4,7 @@ Exemplo de criação de API em Node.js na arquitetura de camadas utilizando banc
 
 ## O que voçê vai ver nesse Projeto
 
-- **Express JSON** - Responsável por analisar (parsear) corpos de requisições HTTP recebidas que contenham dados no formato JSON. 
+- **Express JSON** -É um middleware embutido responsável por analisar (parsear) corpos de requisições HTTP recebidas que contenham dados no formato JSON. 
 - **Express Router** - Reponsável por criar manipuladores de rotas modulares e montáveis. 
 - **Sequelize** - Mapeador objeto-relacional (ORM) permite que manipular dados usando objetos e métodos JavaScript, eliminando a necessidade de escrever queries SQL
 
