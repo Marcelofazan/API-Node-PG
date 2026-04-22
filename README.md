@@ -84,6 +84,7 @@ Automatizar o processo de reinicialização
 	Metodo: POST /paciente
 	Metodo: PUT /paciente
 	Metodo: DELETE /paciente/1
+    Metodo: GET /paciente
 	Metodo: GET /paciente/likeNome?nome="Pessoa 1"
 	Metodo: POST /sessao
 	Metodo: PUT /sessao
