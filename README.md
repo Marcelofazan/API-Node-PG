@@ -20,7 +20,7 @@ Automatizar o processo de reinicialização
 
 ```bash
     nodemon index.js
-ou 
+	ou 
     node index.js
 ```
 
