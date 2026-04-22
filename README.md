@@ -8,7 +8,7 @@ Exemplo de criação de API em Node.js na arquitetura de camadas utilizando banc
 - **Express Router** - Reponsável por criar manipuladores de rotas modulares e montáveis. 
 - **Sequelize** - Mapeador objeto-relacional (ORM) permite que manipular dados usando objetos e métodos JavaScript, eliminando a necessidade de escrever queries SQL
 
-### Requesitos Necessários 
+### Requisitos e Detalhe do uso do Node.js
 
 Instalar o Framework de desenvolvimento. 
 
