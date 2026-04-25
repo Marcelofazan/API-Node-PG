@@ -45,7 +45,7 @@ Automatizar o processo de reinicialização
    ```
 
 **(2 -Alterar paciente)**
-- Enviar POST / Paciente: **http://localhost:3333/paciente**, selecionar Guia Body -> escolher RAW e enviar o seguinte JSON 
+- Enviar PUT / Paciente: **http://localhost:3333/paciente**, selecionar Guia Body -> escolher RAW e enviar o seguinte JSON 
 
   ```json
     { 
