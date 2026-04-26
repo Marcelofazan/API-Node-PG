@@ -58,7 +58,7 @@ Automatizar o processo de reinicialização
   ```
 
 **(3 -Registrar sessão)**
-- Enviar POST / Paciente: **http://localhost:3333/sessao**, selecionar Guia Body -> escolher RAW e enviar o seguinte JSON 
+- Enviar POST / Sessao: **http://localhost:3333/sessao**, selecionar Guia Body -> escolher RAW e enviar o seguinte JSON 
 
 
    ```json
@@ -72,7 +72,7 @@ Automatizar o processo de reinicialização
   ```
 
 **(4 -Alterar sessão)**
-- Enviar POST / Paciente: **http://localhost:3333/sessao**, selecionar Guia Body -> escolher RAW e enviar o seguinte JSON 
+- Enviar PUT / Sessao: **http://localhost:3333/sessao**, selecionar Guia Body -> escolher RAW e enviar o seguinte JSON 
 
 ```json
     { 
